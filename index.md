@@ -28,3 +28,7 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 [Section 1](sadiha.github.io/S1.md)
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
