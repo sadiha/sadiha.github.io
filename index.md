@@ -19,6 +19,6 @@ Syntax highlighted code block
 
 file.
 
-### Support or Contact [me.](https://www.linkedin.com/in/khimcathleensaddi/)
+### Support or Contact [me]. (https://www.linkedin.com/in/khimcathleensaddi/)
 
 
