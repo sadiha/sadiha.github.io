@@ -27,4 +27,4 @@ As Kanye West said:
 
 I think you should use an
 `<addr>` element here instead.
-[S1]
+[Section 1](sadiha.github.io/S1.md)
