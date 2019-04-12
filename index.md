@@ -8,7 +8,7 @@ Whenever you commit to this repository, Github Pages will run [Jekyll] (https://
 
 Markdown is a lightweight and easy-to-use  syntax for styling your writing. It includes conventins for mardown.
 
-Syntax highlighted code block
+*Syntax highlighted code block*
 
 # Header 1
 ## Header 2
@@ -19,6 +19,6 @@ Syntax highlighted code block
 
 file.
 
-### Support or Contact [me]. (https://www.linkedin.com/in/khimcathleensaddi/)
+### Support or Contact __[me]__. (https://www.linkedin.com/in/khimcathleensaddi/)
 
 
