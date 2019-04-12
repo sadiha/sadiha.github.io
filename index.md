@@ -19,6 +19,6 @@ Markdown is a lightweight and easy-to-use  syntax for styling your writing. It i
 
 file.
 
-### Support or Contact [__me__]. (https://www.linkedin.com/in/khimcathleensaddi/)
+### Support or Contact [__me__] (https://www.linkedin.com/in/khimcathleensaddi/).
 
 
