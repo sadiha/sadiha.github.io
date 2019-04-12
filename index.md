@@ -21,4 +21,6 @@ file.
 
 ### Support or Contact [me](https://www.linkedin.com/in/khimcathleensaddi/).
 
-
+As Kanye West said:
+> We're living the future so
+> the present is our past.
